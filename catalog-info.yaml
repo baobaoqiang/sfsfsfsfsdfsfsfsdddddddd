@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sfsfsfsfsdfsfsfsdddddddd"
+  description: "sdfsfs"
+  annotations:
+    github.com/project-slug: "baobaoqiang/sfsfsfsfsdfsfsfsdddddddd"
+    backstage.io/techdocs-ref: github:https://github.com/baobaoqiang/sfsfsfsfsdfsfsfsdddddddd
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "wq"
